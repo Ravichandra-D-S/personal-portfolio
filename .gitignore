@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+backend/venv/
+
+# Environment files
+.env
+.env.*
+
+# Python cache
+backend/__pycache__/
+*.py[cod]
+
+# Database
+backend/*.db
+
+# Build files
+dist/
+
+# Editor files
+.vscode/
+.DS_Store
